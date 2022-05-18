@@ -14,3 +14,6 @@ reference
 Convert Figma designs to high quality, responsive HTML, CSS, React, Vue, and more How does it ...**  
 [https://www.figma.com/community/plugin/747985167520967365/Figma-to-HTML%2C-CSS%2C-React-%26-more!](https://www.figma.com/community/plugin/747985167520967365/Figma-to-HTML%2C-CSS%2C-React-%26-more!)  
 
+**Download Figma Desktop Apps, Mobile Apps, and Font Installers**  
+[https://www.figma.com/downloads/?fuid=1107162521791103904](https://www.figma.com/downloads/?fuid=1107162521791103904)  
+>Font installers -> Windows installer
