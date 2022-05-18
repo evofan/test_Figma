@@ -1,5 +1,7 @@
 # Test Figma and its plugins.
 
+<img src="https://evofan.github.io/test_Figma/screenshot/pic_tropicana.jpg" width="50%">  
+
 reference  
 
 **はじめてのFigma使い方ガイド 基本からプロトタイプ共有まで完全マスター【2022年版】 - PhotoshopVIP**  
