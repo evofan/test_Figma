@@ -17,3 +17,6 @@ Convert Figma designs to high quality, responsive HTML, CSS, React, Vue, and mor
 **Download Figma Desktop Apps, Mobile Apps, and Font Installers**  
 [https://www.figma.com/downloads/?fuid=1107162521791103904](https://www.figma.com/downloads/?fuid=1107162521791103904)  
 >Font installers -> Windows installer
+
+**Figma 日本語化 - Chrome ウェブストア**  
+[https://chrome.google.com/webstore/detail/figma-%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8C%96/ekodckpnalonppfcddgnkoapajahbahc?hl=ja](https://chrome.google.com/webstore/detail/figma-%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8C%96/ekodckpnalonppfcddgnkoapajahbahc?hl=ja)  
