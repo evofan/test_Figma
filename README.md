@@ -20,3 +20,6 @@ Convert Figma designs to high quality, responsive HTML, CSS, React, Vue, and mor
 
 **Figma 日本語化 - Chrome ウェブストア**  
 [https://chrome.google.com/webstore/detail/figma-%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8C%96/ekodckpnalonppfcddgnkoapajahbahc?hl=ja](https://chrome.google.com/webstore/detail/figma-%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8C%96/ekodckpnalonppfcddgnkoapajahbahc?hl=ja)  
+
+**初心者向けFigmaの使い方：Webデザインをトレースしてみよう**  
+[https://www.youtube.com/watch?v=JuaXJ4DgItY](https://www.youtube.com/watch?v=JuaXJ4DgItY)  
